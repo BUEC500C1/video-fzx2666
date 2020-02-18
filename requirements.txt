@@ -1,4 +1,1 @@
 tweepy
-queue
-threading
-multiprocessing
