@@ -1,7 +1,7 @@
 # HW4 FFmpeg - Zhou Fang
 ## Instruction
--First, download all the files and make sure they are all in the same folder.
--Second, use python to execute the file multi_task.py.
+- First, download all the files and make sure they are all in the same folder.
+- Second, use python to execute the file multi_task.py.
 ```
 python multi_task.py
 ```
