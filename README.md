@@ -13,3 +13,4 @@ python multi_task.py
 
 - The completed video files were named like `'handle'-daily twitter.avi` and have also been uploaded, including the pictures used to generated those videos. 
 - Typically, the size of the video will be about ten times the total size of the pictures. Therefore, this relationship could be used to check whether the video was correctly generated.
+- As for the background, a blank white picture was used in this task so that words could be read more clearly.
