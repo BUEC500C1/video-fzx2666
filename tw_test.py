@@ -1,4 +1,4 @@
 import pytest
 
 def f():
-  pass
+    pass
