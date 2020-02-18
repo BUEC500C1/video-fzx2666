@@ -12,7 +12,6 @@ python multi_task.py
 - During the task, the information of the CPU was as below.
 <p align="middle">
   <img src= "https://github.com/BUEC500C1/video-fzx2666/blob/master/CPU-info.png" width= 400>
-</p>
 - This information could be seen by using `top` command in Linux system
 
 - The completed video files were named like `'handle'-daily twitter.avi` and have also been uploaded, including the pictures used to generated those videos. 
