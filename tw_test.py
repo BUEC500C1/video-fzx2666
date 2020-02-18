@@ -1,4 +1,4 @@
 import pytest
 
-def f():
+def test_f():
     pass
