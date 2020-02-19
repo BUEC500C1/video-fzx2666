@@ -11,7 +11,6 @@ def ThreadHw4():
     item = q.get()
     if item is None: break
     twee.twitter_data(item)
-    print('-----------------Thread '+str(item)+' Done-------------------------')
     q.task_done()
 
 q = queue.Queue()
