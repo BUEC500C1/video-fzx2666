@@ -13,10 +13,11 @@ def illegalCheck(s):
 	return ans
 
 def twitter_data(handle):
-  consumer_key = ''
-  secret_key = ''
-  access_token = ''
-  token_secret = ''
+  [auth]
+  consumer_key = ****
+  consumer_secret = ****
+  access_token = ****
+  access_secret = ****
   auth = tweepy.OAuthHandler(consumer_key,secret_key)
   auth.set_access_token(access_token, token_secret)
   api = tweepy.API(auth)
